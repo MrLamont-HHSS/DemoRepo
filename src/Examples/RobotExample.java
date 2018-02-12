@@ -40,9 +40,11 @@ public class RobotExample {
         new Thing(kw, 2, 4);
         new Thing(kw, 2, 4);
         new Thing(kw, 2, 4);
-                
+             
+        
+        
         // move the robot forward 1 space
-        karel.move();
+        karel.move(); //
         
         // move the robot n number of spaces
         // karel.move(2);
