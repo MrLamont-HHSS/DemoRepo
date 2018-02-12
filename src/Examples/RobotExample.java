@@ -41,7 +41,7 @@ public class RobotExample {
         new Thing(kw, 2, 4);
         new Thing(kw, 2, 4);
              
-        
+        // blah blah blah changes
         
         // move the robot forward 1 space
         karel.move(); //
